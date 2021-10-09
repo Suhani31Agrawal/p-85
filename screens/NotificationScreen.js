@@ -75,9 +75,9 @@ export default class NotificationScreen extends Component{
             )
             :(
 
-             <Swipablelist allNotifications={this.state.allNotifications}/>
+             //<Swipablelist allNotifications={this.state.allNotifications}/>
              //<SwipableFlatlist allNotifications={this.allNotifications}/>
-             //<SwipableFlatlist allNotifications={this.state.allNotifications}/>
+             <SwipableFlatlist allNotifications={this.state.allNotifications}/>
              //<SwipableFlatlist allNotifications={allNotifications}/>
 
             )
