@@ -10,7 +10,7 @@ import {
 import { ListItem, Icon } from "react-native-elements";
 
 //import { SwipeFlatListView } from "react-native-swipe-list-view";
-//import { SwipeListView } from "react-native-swipe-list-view";
+import { SwipeListView } from "react-native-swipe-list-view";
 //import { SwipeListView } from "react-native";
 //import { SwipeFlatListView } from "react-native";
 
